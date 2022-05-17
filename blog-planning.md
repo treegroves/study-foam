@@ -1,0 +1,13 @@
+- **_What is my site's primary purpose?_**
+  - To document my learning and present it in a useful, educational way.
+- **_Who is my audience? (is it kids, adults, academics)?_**
+  - Adults learning to code.
+- **_How will I build my site to support their user experience?_**
+  - follow grid layout
+  - minimal nav
+  - responsive
+  - screen reader friendly
+- **_Wireframe - can I draw my site layout on paper? Draw it!_**
+- **_What other directories do I need (e.g. images)? Where do I put that directory?_**
+- **_Do I also want the style to be applied to my blog entries?_**
+  - A consistent design
