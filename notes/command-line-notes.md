@@ -1,4 +1,5 @@
-[[home.md]]
+
+[home](./../home.md)
 
 - navigation MOVING
 
