@@ -1,3 +1,5 @@
+[[home.md]]
+
 ## Notes
 
 ### Git Setup

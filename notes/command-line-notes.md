@@ -1,3 +1,5 @@
+[[home.md]]
+
 - navigation MOVING
 
       e  ^E  j  ^N  CR  *  Forward  one line   (or N lines).
