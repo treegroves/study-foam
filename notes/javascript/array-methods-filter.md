@@ -2,7 +2,7 @@
 
 # Built-in Methods - Filter()
 
-> "The filter() method creates a new array with all elements that pass the test implemented by the provided function."
+> "The filter() method creates a new array with all elements that pass the test implemented by the provided function." - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 
 Creates a new array and put things in it that meet specific requirements
 
