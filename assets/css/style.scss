@@ -24,10 +24,12 @@
   font-size: 16px;
   line-height: 1.9em;
   margin-bottom: 1.2em;
+  font-family: Ubuntu Mono;
 }
 
 .markdown-body li {
   line-height: 1.9em;
+  font-family: Ubuntu Mono;
 }
 
 input.task-list-item-checkbox {
@@ -40,6 +42,5 @@ h3,
 h4,
 h5,
 blockquote {
-  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida,
-    "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+  font-family: Ubuntu Mono;
 }
