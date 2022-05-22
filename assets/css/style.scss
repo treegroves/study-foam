@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+#header_wrap{
+  background: #fde5f7;
+}
 .markdown-body {
   max-width: 800px;
   font-size: 16px;
