@@ -1,0 +1,11 @@
+- Purpose & Focus: To get enough skills so other people will pay you to keep learning.
+- It's only 10 weeks so it's intense! It is a massive workload. Tweet 1: TUNE INTO WHAT YOU NEED IN YOUR LIFE SO YOU CAN MAXIMISE YOUR EFFORT.
+- Tweet 2: LOOK AFTER YOURSELF SO YOU CAN WORK WELL.
+- Tweet 3: If you are feeling comfortable, you are probably not stretching yourself.  It shouldn't feel stressful.
+- Tweet 4: TAKE CONTROL OF YOUR LEARNING. LEAN ON YOUR TEACHERS AND FELLOW STUDENTS FOR SUPPORT.
+- What makes a good programmer a GREAT programmer? Learn FAST, work HARD and work WELL IN A TEAM!
+- Study COMPUTERS & study PEOPLE!
+- Tip: Computers can be frustrating.  Our job is to work with broken technology. When we have solved the problem, you then go back and solve a new problem.  We have to figure out the why and then the how.  PUT THE TIME TO GET USED TO THIS.  So the tip is: CHOOSE HOW YOU RESPOND TO SOMETHING.
+- Watch our for COMPETENCY WHIPLASH.
+- MOST Important Tip: DON’T COMPARE YOURSELF TO OTHERS. It's not helpful or accurate!
+- If you are confused about something. Stop to think about why, then formulate it into a question and find the appropriate source to remove that confusion. 
