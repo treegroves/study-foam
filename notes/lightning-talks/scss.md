@@ -45,3 +45,11 @@ with sass you can create partials that aren't generated into seperate css files,
 
 ## Operators
 Allow you to do math in css, for example converting pixels into percentaged to create fluid items
+
+npm install -g node-sass to install
+
+node-sass check it's running
+
+node-sass -o css css/main.scss  creates and renders to a css called main.css
+
+node-sass -o css css -w to watch and auto render on save
